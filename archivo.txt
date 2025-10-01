@@ -1,1 +1,2 @@
 Este es un archivo de ejemplo para Github
+Esta es una nueva funcionalidad
